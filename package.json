@@ -1,0 +1,32 @@
+{
+  "name": "youtube-to-mp3",
+  "version": "0.0.1",
+  "description": "A Node module for simplyfing the process of acquiring the audio (mp3) from a chosen YouTube video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nonemoticoner/youtube-to-mp3.git"
+  },
+  "author": "Nonemoticoner <nonemoticoner@gmail.com> (https://nonemoticoner.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nonemoticoner/youtube-to-mp3/issues"
+  },
+  "homepage": "https://github.com/Nonemoticoner/youtube-to-mp3#readme",
+  "keywords": [
+    "javascript",
+    "js",
+    "youtube",
+    "convert",
+    "converter"
+    "mp4",
+    "mp3",
+    "audio",
+    "video",
+    "music",
+    "sound"
+  ]
+}
